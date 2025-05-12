@@ -1,0 +1,19 @@
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\bin\Debug\crearsha1.exe.config
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\bin\Debug\crearsha1.exe
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\bin\Debug\crearsha1.pdb
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.Form1.resources
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.Properties.Resources.resources
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.csproj.GenerateResource.cache
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.csproj.CoreCompileInputs.cache
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.exe
+C:\Users\jpo_m\source\repos\crearsha1\crearsha1\obj\Debug\crearsha1.pdb
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\bin\Debug\crearsha1.exe.config
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\bin\Debug\crearsha1.exe
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\bin\Debug\crearsha1.pdb
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.csproj.AssemblyReference.cache
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.Form1.resources
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.Properties.Resources.resources
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.csproj.GenerateResource.cache
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.csproj.CoreCompileInputs.cache
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.exe
+E:\GIT SISTEMA BINGO JOSE PAREDES\crearsha1\crearsha1\crearsha1\obj\Debug\crearsha1.pdb
