@@ -9,7 +9,7 @@ namespace crearsha1
     static class Program
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación. prueba proyecto yomaly
+        /// Punto de entrada principal para la aplicación. devv  raama
         /// </summary>
         [STAThread]
         static void Main()
