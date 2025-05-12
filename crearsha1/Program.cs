@@ -9,7 +9,7 @@ namespace crearsha1
     static class Program
     {
         /// <summary>
-        /// Punto de entrada principal para la aplicación. devv  raama
+        /// Punto de entrada principal para la aplicación. devv  raama pull request
         /// </summary>
         [STAThread]
         static void Main()
